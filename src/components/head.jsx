@@ -9,7 +9,7 @@ export default function Head(){
     <BrowserRouter>
     <HeadR/>
         <Routes>
-            <Route path='/' element={<Perfil/>}/>
+            <Route path='/portafolio' element={<Perfil/>}/>
             <Route path='/proyects' element={<ViewP/>}/>
         </Routes>
     </BrowserRouter>

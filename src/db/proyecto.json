@@ -1,0 +1,20 @@
+[
+    {
+    "link": "https://github.com/agusjaimez/VilladaAppG3-Server",
+    "descripcion": "Server for the Villada school, it is a mass dissemination system that allows directors to send communications and parents receive them. This repository contains the system that must run on the server.",
+    "titulo": "VilladaAppG3-Server ",
+    "imagen": ""
+    },
+    {
+    "link": "https://github.com/agusjaimez/VilladaAppG3-AppMobile",
+    "descripcion": "Application for the Villada school, it is a massive dissemination system that allows directors to send communications and parents receive them. This repository contains the code of the application for mobile devices",
+    "titulo": "VilladaAppG3-AppMobile",
+    "imagen": ""
+    },
+    {
+    "link": "https://github.com/mati7gomez/Pure_Blooded",
+    "descripcion": "horror game made in unity based on the quality of the games of the 2000s, my contribution to this project is both code and 3D models",
+    "titulo": "Pure Blooded",
+    "imagen": ""
+    }
+]

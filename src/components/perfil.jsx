@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Perfil(){
-    const list_skills = ["python","node.js","flask", "numpy", "pandas", "react", "mysql", "postgresql","sqlite", "javascript", "apache", "github","django","git","unity","html5","typescript","docker","selenium", "postman"]
+    const list_skills = ["python","node.js","flask", "numpy", "pandas", "react", "mysql", "postgresql","sqlite", "javascript", "apache", "github","git","html5","docker","selenium", "postman","tensorflow"]
     return(
         <div className="container text-white px-10 backdrop-blur-sm bg-white/10 p-6 rounded-xl">
             <img className="container px-0 rounded-full w-96 h-96" src={"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCYjYlKDP9r6_5C8UpC72iIOACYYy1r6tOSpx8Qi3DH-5X4GIa"} alt=""/>

@@ -1,6 +1,7 @@
 import React from "react";
 
 export default function Card(props) {
+    console.log(props.titule)
     return(
         <div className="pt-5 px-5 self-auto">
             <a href={props.link} className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark: dark:bg-black dark:hover:bg-yellow-700">

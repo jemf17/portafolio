@@ -3,18 +3,18 @@
     "link": "https://github.com/agusjaimez/VilladaAppG3-Server",
     "descripcion": "Server for the Villada school, it is a mass dissemination system that allows directors to send communications and parents receive them. This repository contains the system that must run on the server.",
     "titulo": "VilladaAppG3-Server ",
-    "imagen": ""
+    "imagen": "https://icorp.com.mx/wp-content/uploads/2021/04/Todo-lo-que-debes-saber-sobre-los-servidores-scaled.jpeg"
     },
     {
     "link": "https://github.com/agusjaimez/VilladaAppG3-AppMobile",
     "descripcion": "Application for the Villada school, it is a massive dissemination system that allows directors to send communications and parents receive them. This repository contains the code of the application for mobile devices",
     "titulo": "VilladaAppG3-AppMobile",
-    "imagen": ""
+    "imagen": "https://storage.googleapis.com/cms-storage-bucket/2f118a9971e4ca6ad737.png"
     },
     {
     "link": "https://github.com/mati7gomez/Pure_Blooded",
     "descripcion": "horror game made in unity based on the quality of the games of the 2000s, my contribution to this project is both code and 3D models",
     "titulo": "Pure Blooded",
-    "imagen": ""
+    "imagen": "https://images.prismic.io/laetro-marketing-prod/14fdf537-e045-4d1b-89bd-1e70514ee86c_DreamShaper_v7_a_vibrant_color_drawing_on_a_backdrop_of_interc_1.jpg?auto=compress,format"
     }
 ]

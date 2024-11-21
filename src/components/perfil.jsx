@@ -4,7 +4,7 @@ export default function Perfil(){
     const list_skills = ["python","node.js","flask", "numpy", "pandas", "react", "mysql", "postgresql","sqlite", "javascript", "apache", "github","git","html5","docker","selenium", "postman","tensorflow"]
     return(
         <div className="container text-white px-10 backdrop-blur-sm bg-white/10 p-6 rounded-xl">
-            <img className="container px-0 rounded-full w-96 h-96" src={"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCYjYlKDP9r6_5C8UpC72iIOACYYy1r6tOSpx8Qi3DH-5X4GIa"} alt=""/>
+            <img className="container px-0 rounded-full w-96 h-96" src={"https://preview.redd.it/neco-arc-on-the-computer-what-will-they-do-v0-75m3gvof0zj81.jpg?width=1080&crop=smart&auto=webp&s=9403df9927af2625544105c509461bad62302799"} alt=""/>
             <div className="px-2 container text-center">
                 <h1 className="mb-4 pt-3 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Python <span className="text-yellow-400">Jemf</span>.py</h1>
                 <div className="redes items-stretch rid grid-cols-3 gap-4 content-center">
